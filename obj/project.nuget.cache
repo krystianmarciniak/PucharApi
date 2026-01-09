@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D195IN9XjAc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kryst\\Documents\\53 Pr zaaw\\PuacharApi\\PuacharApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kryst\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\kryst\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
