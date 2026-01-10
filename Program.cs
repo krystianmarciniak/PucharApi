@@ -1,4 +1,5 @@
 using PucharApi.GraphQL;
+using PucharApi.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 

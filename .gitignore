@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+obj/
+
+# SQLite database
+*.db
+
+# User-specific files
+.vs/
+.vscode/
+
+# Logs
+*.log
